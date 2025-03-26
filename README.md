@@ -114,7 +114,7 @@ La distribución del producto puede ser multicanal, aprovechando tanto canales f
 
 # Costos fijos y variables 
 
-1.	Costos fijos:
+1.	**Costos fijos**:
 
 
 
@@ -122,7 +122,7 @@ La distribución del producto puede ser multicanal, aprovechando tanto canales f
 +	Gastos administrativos (electricidad, internet, etc.).
 +	Licencias de software.
 +	Mantenimiento de la infraestructura tecnológica (servidores, sistemas de almacenamiento de datos).
-2.	Costos variables:
+2.	**Costos variables**:
 +	Costos de compra de sensores y dispositivos.
 + Costos de envío y distribución de productos físicos.
 +	Mantenimiento de la aplicación móvil (actualizaciones, correcciones de errores).
