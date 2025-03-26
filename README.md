@@ -6,13 +6,7 @@ GrowGlow es una maceta inteligente diseñada para optimizar el cuidado de las or
 ---
 
 ##  Problemática
-El cuidado de las orquídeas representa un desafío para muchos usuarios debido a:
-- Falta de conocimiento sobre sus necesidades específicas.
-- Dificultad para controlar el riego y las condiciones ambientales.
-- Alto costo de adquisición y mantenimiento de estas plantas.
-- Pérdidas económicas significativas debido a un cuidado inadecuado.
-
-Dado que las orquídeas son plantas exóticas y costosas, es fundamental contar con una solución práctica y fácil de usar que optimice su mantenimiento y reduzca el riesgo de deterioro.
+El cuidado de las orquídeas representa un desafío para muchos usuarios debido a la falta de conocimiento sobre sus necesidades específicas, dificultad para controlar el riego y las condiciones ambientales, alto costo de adquisición y mantenimiento de estas plantas, pérdidas económicas significativas debido a un cuidado inadecuado.Dado que las orquídeas son plantas exóticas y costosas, es fundamental contar con una solución práctica y fácil de usar que optimice su mantenimiento y reduzca el riesgo de deterioro.
 
 ---
 
