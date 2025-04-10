@@ -1,5 +1,10 @@
 #  Documentación GrowGlow
 
+## BrightBloom
+|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|![](/Documentacion/logos/WhatsApp%20Image%202025-03-25%20at%208.41.13%20AM%20(1).jpeg)|![](/Documentacion/logos/WhatsApp%20Image%202025-03-25%20at%208.41.13%20AM.jpeg)|
+
 ##  Resumen Ejecutivo
 GrowGlow es una maceta inteligente diseñada para optimizar el cuidado de las orquídeas mediante sensores avanzados y tecnología IoT. Su objetivo es brindar un monitoreo preciso de las condiciones ambientales, asegurando un desarrollo saludable de la planta con mínima intervención del usuario. Esta solución facilita el mantenimiento de las orquídeas, promoviendo un consumo responsable energía.
 
@@ -46,40 +51,6 @@ Con la integración de IoT y automatización, esta maceta inteligente representa
 
 ---
 
-# Identificación del segmento de mercado
-
-
-- Personas aficionadas a las plantas exóticas y decorativas.
-
-- Propietarios de orquídeas que buscan soluciones para un mejor cuidado.
-
-- Personas con poco tiempo para el mantenimiento de plantas
-
-
-- Personas que viajan con frecuencia y necesitan un sistema automatizado.
-
-- Principiantes en el cuidado de plantas
-
-- Usuarios sin experiencia en jardinería que buscan una solución fácil de usar.
-
-- Personas que han tenido dificultades previas con el cuidado de orquídeas.
-
-
-- Negocios que pueden ofrecer GrowGlow como un producto innovador para clientes.
-
-- Personas que buscan soluciones innovadoras basadas en IoT para el hogar.
-
-# Estrategía de distribución 
-
-La distribución del producto puede ser multicanal, aprovechando tanto canales físicos como digitales:
-
-**1**.	Venta en línea: A través de plataformas como Amazon, Mercado Libre, o tu propia página web, para llegar a un público amplio.
-
-**2**.	Tiendas físicas de jardinería: Asociarse con tiendas especializadas en jardinería y viveros para vender el sistema de monitoreo y sensores.
-
-**3**.	Aplicación móvil: Desarrollar una app que esté disponible para descarga en tiendas como Google Play y Apple Store, donde el usuario pueda monitorear las orquídeas y comprar sensores o kits de monitoreo.
-
-**4**.	Redes sociales: Usar plataformas como Instagram, Facebook, y TikTok para promocionar el producto, interactuar con los clientes potenciales y hacer ventas directas.
 
 
 # Elementos necesarios 
@@ -90,56 +61,34 @@ La distribución del producto puede ser multicanal, aprovechando tanto canales f
 - Conexión a la red Wi-Fi: Para la comunicación entre los sensores y la app.
 -	Servidor para Almacenamiento de Datos: Un servidor o plataforma en la nube para almacenar y procesar los datos de los sensores en tiempo real.
 
-# Normas Mexicanas 
-
-1.	**Norma Oficial Mexicana NOM-001-SCFI-2018**: Regula los productos electrónicos y dispositivos de comunicación. Es importante asegurarse de que los sensores y la app cumplan con las normativas de seguridad y telecomunicaciones en México.
-2.	**Norma Oficial Mexicana NOM-001-SEDE-2012**: Establece los requisitos de seguridad para productos electrónicos que pueden estar conectados a la red eléctrica.
-3.	**Norma Mexicana para productos tecnológicos (NMX)** : Dependiendo de los componentes electrónicos, puede ser necesario cumplir con normas relacionadas con la seguridad de equipos electrónicos.
-4.	**Ley de Protección al Consumidor**: Asegurarse de que el sistema cumpla con los derechos de los consumidores y garantice transparencia en el manejo de datos personales.
-
-# Inversión Inicial 
+## Requerimientos Funcionales 
 
 
+Monitoreo de la temperatura y humedad: La maceta debe poder identificar la temperatura y humedad del suelo. 
 
-1.	Costos de servidores/cloud: Pago por servidores en la nube para almacenamiento y procesamiento de datos.
-2.	Costos de Sensores:
--	Compra de sensores: Sensores de humedad, temperatura y luz.
--	Fabricación de dispositivos: Costo de producción de los dispositivos que incluirán los sensores y la comunicación de datos.
-3.	Marketing y Publicidad:
--	Publicidad en redes sociales: Costo para campañas publicitarias.
-- Material promocional: Diseñar y producir folletos, videos y otros contenidos.
-4.	Registro y Patentes:
-- Costos asociados con la obtención de patentes para la tecnología utilizada.
+Iluminación: Detectar si la maceta tiene luz excesiva o no esta bien iluminada.  
 
+Notificaciones: Enviar notificaciones al usuario cuando la planta requiera algún tipo de atención.
 
-# Costos fijos y variables 
+Verificación del PH: Identificar el PH de la tierra en la que se encuentra la planta.
 
-1.	**Costos fijos**:
+## Requerimientos no Funcionales 
+
+Mantenimiento: Debe ser fácil de mantener y limpiar, con componentes reemplazables. 
+
+Estética: La maceta debe tener un diseño atractivo y adaptable.
+
+Durabilidad: Que sea resistente y duradera, capaz de soportar el uso diario y diferentes condiciones.
 
 
 
-*	Servicios de nube o servidores (si son contratados mensualmente).
-+	Gastos administrativos (electricidad, internet, etc.).
-+	Licencias de software.
-+	Mantenimiento de la infraestructura tecnológica (servidores, sistemas de almacenamiento de datos).
-2.	**Costos variables**:
-+	Costos de compra de sensores y dispositivos.
-+ Costos de envío y distribución de productos físicos.
-+	Mantenimiento de la aplicación móvil (actualizaciones, correcciones de errores).
-+	Publicidad y marketing (si es un costo recurrente).
-+	Soporte al cliente y atención técnica.
 
 
 
-# Costos de venta y producción 
 
-1.	**Costo de Producción**: 
-+	Costo de adquisición por sensor: Aproximadamente $200 a $500 MXN dependiendo de la calidad y tecnología de los sensores.
-+	Costo de desarrollo y mantenimiento de la app: Estimado en $50 - $100 MXN por usuario puede ser una inversión inicial elevada, pero luego los costos operativos pueden ser bajos si se hace uso de plataformas en la nube.
-2.	**Costo de Venta**:
-+	Costos de distribución y logística: Incluyen el envío de productos, comisiones de plataformas de venta y empaques. Dependiendo del tamaño, entre $50 - $100 MXN por envío.
-+	 Marketing y campañas publicitarias: para promover la venta del producto estimado en $50 - $100 MXN por usuario.
-+	Costo de ventas online: comisiones por uso de plataformas como Google Play, App Store o sitios de comercio electrónico. Aproximadamente 30% de las ventas.
+
+
+
 
 
 
