@@ -2,7 +2,7 @@
 
 |**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|<img src="/Documentacion/logos/empresa.jpeg" />|![](/Documentacion/logos/producto.jpeg)|
+|![](Documentacion/logos/empresa.jpeg)|![](Documentacion/logos/producto.jpeg)|
 
 
 
