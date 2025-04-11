@@ -1,5 +1,7 @@
 #  Documentación GrowGlow
 
+|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |![](/Documentacion/logos/empresa.jpeg)|![](/Documentacion/logos/producto.jpeg)|
 
 
