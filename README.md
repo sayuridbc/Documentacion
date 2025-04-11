@@ -1,5 +1,10 @@
 #  Documentación GrowGlow
 
+|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|![](/Documentacion/logos/empresa.jpeg)|![](/Documentacion/logos/producto.jpeg)|
+
+
 
 ##  Resumen Ejecutivo
 GrowGlow es una maceta inteligente diseñada para optimizar el cuidado de las orquídeas mediante sensores avanzados y tecnología IoT. Su objetivo es brindar un monitoreo preciso de las condiciones ambientales, asegurando un desarrollo saludable de la planta con mínima intervención del usuario. Esta solución facilita el mantenimiento de las orquídeas, promoviendo un consumo responsable energía.
